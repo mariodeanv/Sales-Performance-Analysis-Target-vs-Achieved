@@ -1,0 +1,151 @@
+SalesRep,Region,Product,Target,Achieved,PctAchieved,PerformanceTier
+Aisha,Western Cape,Household,82098,88513,107.81,Excellent
+Sipho,Western Cape,Beverages,127397,140604,110.37,Excellent
+Thabo,Western Cape,Beverages,78657,90990,115.68,Excellent
+Thabo,Gauteng,Personal Care,78893,147757,187.29,Excellent
+Johan,Western Cape,Snacks,141506,140785,99.49,Good
+Zanele,KwaZulu-Natal,Snacks,78221,118236,151.16,Excellent
+Aisha,Western Cape,Personal Care,62676,124104,198.01,Excellent
+Zanele,KwaZulu-Natal,Beverages,145647,150435,103.29,Excellent
+Aisha,Eastern Cape,Beverages,122357,106854,87.33,Good
+Zanele,Gauteng,Beverages,56006,89742,160.24,Excellent
+Johan,Western Cape,Snacks,63238,129647,205.01,Excellent
+Johan,Eastern Cape,Household,71319,127040,178.13,Excellent
+Zanele,Gauteng,Household,141988,48717,34.31,Below Target
+Sipho,Gauteng,Snacks,110589,129471,117.07,Excellent
+Johan,Gauteng,Household,57331,90043,157.06,Excellent
+Thabo,KwaZulu-Natal,Personal Care,85093,47350,55.65,Below Target
+Naledi,KwaZulu-Natal,Snacks,135909,160870,118.37,Excellent
+Pieter,Eastern Cape,Snacks,84718,66603,78.62,Average
+Naledi,KwaZulu-Natal,Personal Care,126484,134700,106.5,Excellent
+Zanele,Gauteng,Snacks,116784,159372,136.47,Excellent
+Aisha,Western Cape,Beverages,70033,71938,102.72,Excellent
+Pieter,Western Cape,Personal Care,100019,152696,152.67,Excellent
+Johan,Western Cape,Beverages,139353,170763,122.54,Excellent
+Johan,KwaZulu-Natal,Beverages,88469,143971,162.74,Excellent
+Sipho,Eastern Cape,Beverages,144646,99045,68.47,Below Target
+Sipho,Western Cape,Household,133748,163080,121.93,Excellent
+Naledi,Gauteng,Household,149943,72349,48.25,Below Target
+Thabo,KwaZulu-Natal,Personal Care,52552,59325,112.89,Excellent
+Zanele,KwaZulu-Natal,Snacks,57592,93143,161.73,Excellent
+Aisha,Western Cape,Personal Care,59071,169645,287.19,Excellent
+Sipho,Gauteng,Personal Care,122063,73287,60.04,Below Target
+Johan,Eastern Cape,Snacks,120686,82730,68.55,Below Target
+Johan,Eastern Cape,Household,107422,165679,154.23,Excellent
+Lerato,Western Cape,Snacks,79451,46784,58.88,Below Target
+Zanele,Western Cape,Snacks,127128,87728,69.01,Below Target
+Thabo,Western Cape,Beverages,80007,47668,59.58,Below Target
+Thabo,KwaZulu-Natal,Beverages,117391,92391,78.7,Average
+Johan,Eastern Cape,Snacks,120678,64684,53.6,Below Target
+Lerato,Gauteng,Personal Care,103354,79914,77.32,Average
+Aisha,Western Cape,Personal Care,96438,141038,146.25,Excellent
+Pieter,Eastern Cape,Beverages,138259,55799,40.36,Below Target
+Thabo,Eastern Cape,Household,64322,95183,147.98,Excellent
+Naledi,Gauteng,Personal Care,68373,140593,205.63,Excellent
+Sipho,KwaZulu-Natal,Personal Care,82742,49761,60.14,Below Target
+Lerato,Western Cape,Beverages,135477,171711,126.75,Excellent
+Thabo,Western Cape,Snacks,71798,136539,190.17,Excellent
+Lerato,Eastern Cape,Snacks,102565,45370,44.24,Below Target
+Sipho,Eastern Cape,Beverages,101173,99521,98.37,Good
+Lerato,KwaZulu-Natal,Personal Care,141303,175691,124.34,Excellent
+Lerato,Gauteng,Snacks,88890,87068,97.95,Good
+Thabo,Western Cape,Household,57492,43144,75.04,Average
+Lerato,Gauteng,Beverages,116562,51000,43.75,Below Target
+Sipho,Western Cape,Beverages,138501,91657,66.18,Below Target
+Pieter,Western Cape,Snacks,125880,40418,32.11,Below Target
+Aisha,Eastern Cape,Household,84179,83545,99.25,Good
+Zanele,Gauteng,Household,101876,64308,63.12,Below Target
+Johan,Eastern Cape,Household,148548,49016,33.0,Below Target
+Thabo,Eastern Cape,Beverages,59602,170937,286.8,Excellent
+Naledi,KwaZulu-Natal,Snacks,95745,48033,50.17,Below Target
+Naledi,KwaZulu-Natal,Household,70676,144867,204.97,Excellent
+Johan,Western Cape,Household,136951,57154,41.73,Below Target
+Sipho,KwaZulu-Natal,Beverages,64029,175024,273.35,Excellent
+Sipho,KwaZulu-Natal,Household,129276,85215,65.92,Below Target
+Zanele,Gauteng,Household,116244,158065,135.98,Excellent
+Johan,Western Cape,Beverages,133136,141037,105.93,Excellent
+Johan,Western Cape,Beverages,93719,64293,68.6,Below Target
+Johan,Gauteng,Personal Care,122309,142115,116.19,Excellent
+Thabo,Western Cape,Beverages,140573,69073,49.14,Below Target
+Thabo,KwaZulu-Natal,Snacks,106333,63409,59.63,Below Target
+Thabo,KwaZulu-Natal,Household,55229,123797,224.15,Excellent
+Naledi,Gauteng,Beverages,96357,176770,183.45,Excellent
+Pieter,Gauteng,Snacks,71299,76413,107.17,Excellent
+Pieter,Western Cape,Snacks,146542,117080,79.9,Average
+Pieter,Gauteng,Household,70866,58336,82.32,Average
+Pieter,Western Cape,Personal Care,79154,82316,103.99,Excellent
+Lerato,KwaZulu-Natal,Household,79831,88438,110.78,Excellent
+Thabo,Gauteng,Personal Care,93025,103034,110.76,Excellent
+Aisha,KwaZulu-Natal,Household,134080,163537,121.97,Excellent
+Pieter,KwaZulu-Natal,Beverages,65118,98475,151.23,Excellent
+Sipho,KwaZulu-Natal,Beverages,64208,143918,224.14,Excellent
+Zanele,KwaZulu-Natal,Personal Care,129457,164066,126.73,Excellent
+Aisha,Eastern Cape,Snacks,83386,41635,49.93,Below Target
+Pieter,Western Cape,Snacks,97739,143062,146.37,Excellent
+Aisha,KwaZulu-Natal,Household,136951,62669,45.76,Below Target
+Johan,KwaZulu-Natal,Personal Care,92753,135486,146.07,Excellent
+Johan,Gauteng,Snacks,105108,129390,123.1,Excellent
+Sipho,KwaZulu-Natal,Personal Care,121819,30106,24.71,Below Target
+Johan,KwaZulu-Natal,Snacks,106346,114475,107.64,Excellent
+Lerato,Eastern Cape,Personal Care,138555,86020,62.08,Below Target
+Lerato,Gauteng,Beverages,87196,165122,189.37,Excellent
+Zanele,Western Cape,Snacks,138184,111374,80.6,Average
+Naledi,Gauteng,Snacks,53201,42114,79.16,Average
+Naledi,Eastern Cape,Beverages,109692,138643,126.39,Excellent
+Naledi,Eastern Cape,Personal Care,102383,93959,91.77,Good
+Sipho,Western Cape,Beverages,105724,87367,82.64,Average
+Sipho,Eastern Cape,Beverages,123060,95325,77.46,Average
+Aisha,Eastern Cape,Snacks,110901,169233,152.6,Excellent
+Zanele,Eastern Cape,Personal Care,121810,146893,120.59,Excellent
+Sipho,Eastern Cape,Personal Care,83972,94812,112.91,Excellent
+Johan,Eastern Cape,Snacks,85992,145309,168.98,Excellent
+Aisha,KwaZulu-Natal,Snacks,85614,118040,137.87,Excellent
+Zanele,Western Cape,Snacks,69769,90623,129.89,Excellent
+Pieter,Gauteng,Snacks,58418,138755,237.52,Excellent
+Pieter,KwaZulu-Natal,Personal Care,104496,46322,44.33,Below Target
+Naledi,Eastern Cape,Personal Care,126556,35120,27.75,Below Target
+Pieter,Eastern Cape,Beverages,96105,108279,112.67,Excellent
+Pieter,Eastern Cape,Snacks,113993,87520,76.78,Average
+Johan,Eastern Cape,Personal Care,53804,131936,245.22,Excellent
+Zanele,Eastern Cape,Snacks,111261,63456,57.03,Below Target
+Thabo,Eastern Cape,Beverages,61003,142358,233.36,Excellent
+Sipho,Eastern Cape,Snacks,56590,98198,173.53,Excellent
+Pieter,KwaZulu-Natal,Snacks,109598,115680,105.55,Excellent
+Zanele,Eastern Cape,Household,148567,140510,94.58,Good
+Johan,Western Cape,Personal Care,52540,171405,326.24,Excellent
+Thabo,KwaZulu-Natal,Snacks,135215,47987,35.49,Below Target
+Thabo,Western Cape,Snacks,76130,35342,46.42,Below Target
+Sipho,Gauteng,Snacks,112070,59986,53.53,Below Target
+Naledi,Eastern Cape,Household,98351,73984,75.22,Average
+Aisha,Gauteng,Household,64168,36731,57.24,Below Target
+Johan,Eastern Cape,Personal Care,143718,81990,57.05,Below Target
+Aisha,Gauteng,Beverages,141382,109058,77.14,Average
+Aisha,Western Cape,Household,119827,142296,118.75,Excellent
+Zanele,Western Cape,Household,51658,140115,271.24,Excellent
+Lerato,Western Cape,Personal Care,97472,150517,154.42,Excellent
+Sipho,Eastern Cape,Snacks,146180,166772,114.09,Excellent
+Johan,Eastern Cape,Personal Care,107091,100358,93.71,Good
+Zanele,Gauteng,Beverages,86559,148175,171.18,Excellent
+Naledi,Eastern Cape,Personal Care,94092,37523,39.88,Below Target
+Lerato,KwaZulu-Natal,Snacks,113904,85605,75.16,Average
+Zanele,KwaZulu-Natal,Household,86655,102422,118.2,Excellent
+Thabo,Gauteng,Beverages,81635,136542,167.26,Excellent
+Lerato,Gauteng,Personal Care,134659,158665,117.83,Excellent
+Lerato,Western Cape,Beverages,88566,88090,99.46,Good
+Pieter,Gauteng,Household,137026,126736,92.49,Good
+Lerato,KwaZulu-Natal,Personal Care,147771,174281,117.94,Excellent
+Zanele,KwaZulu-Natal,Personal Care,85509,110379,129.08,Excellent
+Johan,Gauteng,Beverages,144540,80484,55.68,Below Target
+Zanele,Western Cape,Snacks,75105,86723,115.47,Excellent
+Lerato,KwaZulu-Natal,Household,63176,80886,128.03,Excellent
+Johan,Gauteng,Household,73519,109237,148.58,Excellent
+Thabo,Gauteng,Household,55965,44293,79.14,Average
+Johan,Gauteng,Personal Care,63446,33215,52.35,Below Target
+Johan,Eastern Cape,Personal Care,107733,119314,110.75,Excellent
+Sipho,Western Cape,Household,112616,59907,53.2,Below Target
+Aisha,Eastern Cape,Personal Care,59710,44053,73.78,Average
+Sipho,Gauteng,Household,61164,95061,155.42,Excellent
+Aisha,Eastern Cape,Snacks,118494,129713,109.47,Excellent
+Lerato,Eastern Cape,Household,127139,142415,112.02,Excellent
+Johan,Western Cape,Beverages,149973,84470,56.32,Below Target
+Naledi,KwaZulu-Natal,Beverages,70585,92879,131.58,Excellent
