@@ -19,27 +19,28 @@ visualized end-to-end using Python, pandas, and Seaborn.
 **1. Target vs Achieved by Region**
 Grouped bar chart comparing total target and actual sales per region.
 
-C:\Users\mario\AppData\Local\Temp\d437b498-a0b7-4fb5-870c-4c2ea039be10_sales_performance_analysis_project_1.zip.e10\sales_project\images\target_vs_achieved_by_region.png
+
 
 **2. % Achieved by Sales Rep**
 Bar chart ranking reps, with a 100% target reference line.
 
-![% Achieved by Sales Rep](images/pct_achieved_by_rep.png)
+<img width="887" height="485" alt="image" src="https://github.com/user-attachments/assets/d8f26f60-0e31-4a1f-8841-1ace57d306f9" />
+
 
 **3. Performance Tier Distribution**
 Count plot showing how many records fall into each performance tier.
 
-![Performance Tier Distribution](images/performance_tier_distribution.png)
+
 
 **4. % Achieved by Product**
 Box plot showing the spread and consistency of performance per product category.
 
-![% Achieved by Product](images/pct_achieved_by_product.png)
+
 
 **5. Correlation Heatmap**
 Relationship between Target, Achieved, and % Achieved.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+
 
 ## What it covers
 | Lists & a tuple | Sales reps / products as lists, regions as a tuple |
